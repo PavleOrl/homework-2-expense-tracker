@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+# the expenses entered while using the app (made from sample-data on the first start)
+data/

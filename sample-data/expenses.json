@@ -1,0 +1,21 @@
+[
+  { "id": 1, "date": "2026-10-01", "description": "Rent for October", "category": "Housing", "amount": "35000.00" },
+  { "id": 2, "date": "2026-10-02", "description": "Monthly bus pass", "category": "Transport", "amount": "2600.00" },
+  { "id": 3, "date": "2026-10-03", "description": "Supermarket - weekly shopping", "category": "Food", "amount": "4870.50" },
+  { "id": 4, "date": "2026-10-05", "description": "Textbook: Software Engineering", "category": "Education", "amount": "3200.00" },
+  { "id": 5, "date": "2026-10-07", "description": "Electricity bill", "category": "Bills", "amount": "3150.75" },
+  { "id": 6, "date": "2026-10-08", "description": "Lunch with friends", "category": "Food", "amount": "1450.00" },
+  { "id": 7, "date": "2026-10-10", "description": "Cinema", "category": "Fun", "amount": "750.00" },
+  { "id": 8, "date": "2026-10-11", "description": "Supermarket - weekly shopping", "category": "Food", "amount": "5120.30" },
+  { "id": 9, "date": "2026-10-14", "description": "Mobile phone bill", "category": "Bills", "amount": "1999.00" },
+  { "id": 10, "date": "2026-10-16", "description": "Pharmacy - vitamins", "category": "Health", "amount": "1280.00" },
+  { "id": 11, "date": "2026-10-18", "description": "Winter jacket", "category": "Clothes", "amount": "8990.00" },
+  { "id": 12, "date": "2026-10-19", "description": "Supermarket - weekly shopping", "category": "Food", "amount": "4430.80" },
+  { "id": 13, "date": "2026-10-22", "description": "Football match ticket", "category": "Fun", "amount": "1200.00" },
+  { "id": 14, "date": "2026-10-25", "description": "Taxi home", "category": "Transport", "amount": "890.00" },
+  { "id": 15, "date": "2026-10-27", "description": "Pizza delivery", "category": "Food", "amount": "1650.00" },
+  { "id": 16, "date": "2026-10-30", "description": "Internet bill", "category": "Bills", "amount": "2490.00" },
+  { "id": 17, "date": "2026-11-01", "description": "Rent for November", "category": "Housing", "amount": "35000.00" },
+  { "id": 18, "date": "2026-11-01", "description": "Monthly bus pass", "category": "Transport", "amount": "2600.00" },
+  { "id": 19, "date": "2026-11-01", "description": "Coffee and croissant", "category": "Food", "amount": "420.00" }
+]

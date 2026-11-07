@@ -1,0 +1,20 @@
+{#
+    The component CategoryTotals: one bar for every category,
+    as long as the share of the category in the total of the month.
+#}
+{% macro CategoryTotals(totals, total) %}
+{% for category, amount in totals.items() %}
+{% set percent = (amount / total * 100) | round(1) %}
+<div class="mb-2">
+    <div class="d-flex justify-content-between small">
+        <span>{{ category }}</span>
+        <span>{{ amount | money }} ({{ percent }}%)</span>
+    </div>
+    <div class="progress">
+        <div class="progress-bar" role="progressbar" style="width: {{ percent }}%"></div>
+    </div>
+</div>
+{% else %}
+<p class="text-muted">There are no expenses in this month.</p>
+{% endfor %}
+{% endmacro %}
